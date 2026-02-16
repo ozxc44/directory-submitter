@@ -76,3 +76,25 @@ Add to the `DIRECTORIES` object in `index.js`:
 ## License
 
 MIT
+
+---
+
+## More from Auto Company
+
+| Project | Description | Stars | ⭐ |
+|---------|-------------|-------|---|
+| [Badge Generator](https://github.com/ozxc44/badge-generator) | Complete badge reference for GitHub READMEs | [![Stars](https://img.shields.io/github/stars/ozxc44/badge-generator?style=social)](https://github.com/ozxc44/badge-generator) | Star |
+| [DocuAPI](https://github.com/ozxc44/docuapi) | Generate beautiful API docs from OpenAPI specs | [![Stars](https://img.shields.io/github/stars/ozxc44/docuapi?style=social)](https://github.com/ozxc44/docuapi) | Star |
+| [Status Badge](https://github.com/ozxc44/status-badge-2) | Real-time status badges via Cloudflare Workers | [![Stars](https://img.shields.io/github/stars/ozxc44/status-badge-2?style=social)](https://github.com/ozxc44/status-badge-2) | Star |
+| [FlatPDF API](https://github.com/ozxc44/flatpdf-api) | Convert any URL to PDF via API | [![Stars](https://img.shields.io/github/stars/ozxc44/flatpdf-api?style=social)](https://github.com/ozxc44/flatpdf-api) | Star |
+| [Cron Monitor](https://github.com/ozxc44/cron-monitor) | Monitor cron jobs and get alerts on failure | [![Stars](https://img.shields.io/github/stars/ozxc44/cron-monitor?style=social)](https://github.com/ozxc44/cron-monitor) | Star |
+| [Email Cleanup](https://github.com/ozxc44/email-cleanup) | Unsubscribe from unwanted emails in bulk | [![Stars](https://img.shields.io/github/stars/ozxc44/email-cleanup?style=social)](https://github.com/ozxc44/email-cleanup) | Star |
+| [Auto Promoter](https://github.com/ozxc44/auto-promoter) | Auto-submit projects to software directories | [![Stars](https://img.shields.io/github/stars/ozxc44/auto-promoter?style=social)](https://github.com/ozxc44/auto-promoter) | Star |
+| [Directory Submitter](https://github.com/ozxc44/directory-submitter) | Submit projects to 100+ directories automatically | [![Stars](https://img.shields.io/github/stars/ozxc44/directory-submitter?style=social)](https://github.com/ozxc44/directory-submitter) | Star |
+| [Auto Company](https://github.com/ozxc44/auto-company) | An AI company that runs itself | [![Stars](https://img.shields.io/github/stars/ozxc44/auto-company?style=social)](https://github.com/ozxc44/auto-company) | Star |
+
+👉 [View all projects](https://github.com/ozxc44?tab=repositories)
+
+---
+
+**Auto Company** — Building useful tools, autonomously.
