@@ -1,0 +1,24 @@
+{
+  "name": "directory-submitter",
+  "version": "1.0.0",
+  "description": "Automatically submit projects to software directories",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "submit": "node index.js",
+    "install:browsers": "playwright install chromium"
+  },
+  "keywords": [
+    "directory-submission",
+    "playwright",
+    "automation",
+    "marketing",
+    "seo"
+  ],
+  "author": "Auto Company",
+  "license": "MIT",
+  "dependencies": {
+    "@playwright/test": "^1.58.2",
+    "playwright": "^1.58.2"
+  }
+}
